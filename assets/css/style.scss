@@ -11,3 +11,10 @@ footer {
 	display: none;
 };
 
+a {
+	color: #bf812d;
+};
+
+a:hover, a:focus {
+	text-decoration: underline;
+}
