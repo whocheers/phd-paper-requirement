@@ -4,4 +4,5 @@
 **Venue:** [The 2018 Web Conference (WWW'18)](https://www2018.thewebconf.org/)  
 **Accept Rate:** 171/1155=14.8%  
 **Additional Information:** WWW is generally considered to be a good conference in web-related areas, some references about its quality can be found [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng_databasesinformationsystems), [here](http://csrankings.org/) and [here](http://csmetrics.org/).  
+**Advisor:** [Christo Wilson](https://cbw.sh/)  
 **Statement from Advisor:**
