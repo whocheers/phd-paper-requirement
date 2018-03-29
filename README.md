@@ -1,7 +1,7 @@
 ## Ph.D. Paper Requirement for Shan Jiang   
 
 **Advisor:** [Christo Wilson](https://cbw.sh/)  
-**Paper:** [On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi](https://cbw.sh/static/pdf/jiang-www18.pdf)  
+**Paper:** [On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi](https://www.shanjiang.me/publications/www18_paper.pdf)  
 **Venue:** [The 2018 Web Conference (WWW'18)](https://www2018.thewebconf.org/)  
 **Accept Rate:** 171/1155=14.8%  
 **Additional Information:**  
