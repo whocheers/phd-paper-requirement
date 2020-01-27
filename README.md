@@ -5,7 +5,7 @@
 **Venue:** [The 2019 Web Conference (WWW'19)](https://www2019.thewebconf.org/)  
 **Accept Rate:** 225/1247=18%  
 **Additional Information:**  
-WWW is generally considered to bae a good conference in web-related areas, some references about its quality can be found [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng_databasesinformationsystems), [here](http://csrankings.org/) and [here](http://csmetrics.org/).  
+WWW is generally considered to be a good conference in web-related areas, some references about its quality can be found [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng_databasesinformationsystems), [here](http://csrankings.org/) and [here](http://csmetrics.org/).  
 **Statement from Advisor:**  
 
 > Desheng's paper, "Auditing the Partisanship of Google Search Snippets", was published at The Web Conference 2019 (WWW 2019, formerly known as the World Wide Web Conference). WWW is a top tier venue with acceptance rates lower than 20%. 
